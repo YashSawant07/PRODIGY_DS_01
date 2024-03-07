@@ -1,1 +1,1 @@
-# PRODIGY_DS_01
+Hello guys, here is my first task for #prodigy infotech. Where i dealed with data of various contries population and tried data visualisation by bar chart where i used some python technique such as matplotlib.The bar chart shows the top 10 contries by population.
